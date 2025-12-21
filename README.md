@@ -1,6 +1,6 @@
 # 🛰️ CubeSat Flight Software – Communications & Command Core
 
-A modular, high-reliability **Communication and Command (C&DH / TMTC core)** designed for a simulated CubeSat.  
+A modular, high-reliability **Communication and Command (C&DH / TMTC core)** designed for a simulated 1U/3U CubeSat.  
 This project implements a robust **ground-to-space communication link** featuring custom packet framing, CRC-16 error detection, and a command dispatch layer suitable for integration into a larger Flight Software (FSW) architecture.
 
 The system is designed for **software-only development and verification**, reflecting early-phase CubeSat missions where hardware may be unavailable.
